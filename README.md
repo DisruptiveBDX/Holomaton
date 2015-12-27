@@ -1,8 +1,9 @@
-# face-detection-node-opencv
+# Holomaton
 
-Real-time face detection using OpenCV, Node.js, and WebSockets.
 
-Click [here](http://youtu.be/v2SY0naPBFw) to see it in action.
+Forked and adapted from [face-detection-node-opencv](https://github.com/drejkim/face-detection-node-opencv/)
+
+Using OpenCV, Node.js, and WebSockets.
 
 ## Requirements
 
@@ -20,5 +21,3 @@ Click [here](http://youtu.be/v2SY0naPBFw) to see it in action.
 * Make sure you are still in the `server` directory
 * To run the server: `node server.js`
 * To run the demo locally, open a browser and go to `localhost:8080`
-
-The app should be up and running!
